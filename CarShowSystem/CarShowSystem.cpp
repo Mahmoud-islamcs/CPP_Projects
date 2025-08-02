@@ -9,7 +9,7 @@ using namespace std;
 int main() {
     Showroom showroom("AutoMax");
     int choice;
-
+    cout << "Test";
     do {
         cout << endl << "========== Car Showroom Management ==========" << endl;
         cout << "1. Add Customer" << endl;
