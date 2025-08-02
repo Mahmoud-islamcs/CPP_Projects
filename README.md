@@ -1,9 +1,9 @@
-# 💻 C++ Projects Repository
+# C++ Projects Repository
 
-Welcome to my C++ Projects Repository! 👋  
+👋 Welcome to my C++ Projects Repository!   
 This repository contains a collection of C++ projects that I built for practice, learning, and academic purposes.
 
-## 📁 Folder Structure
+##  Folder Structure
 
 Each project is organized in its own folder and includes:
 
@@ -11,7 +11,7 @@ Each project is organized in its own folder and includes:
 - `.h` and `.cpp` files: Organized by class for modularity.
 - Optional `README.md`: Explaining the individual project.
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 These projects cover a wide range of C++ topics, including:
 
@@ -22,7 +22,7 @@ These projects cover a wide range of C++ topics, including:
 - Basic Data Structures
 - Algorithms & Problem Solving
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - Language: C++
 - IDEs: Visual Studio / VS Code
