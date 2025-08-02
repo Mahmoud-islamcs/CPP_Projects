@@ -22,7 +22,7 @@ These projects cover a wide range of C++ topics, including:
 - Basic Data Structures
 - Algorithms & Problem Solving
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Language: C++
 - IDEs: Visual Studio / VS Code
