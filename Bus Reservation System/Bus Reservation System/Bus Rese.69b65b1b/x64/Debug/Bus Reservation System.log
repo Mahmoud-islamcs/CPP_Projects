@@ -1,0 +1,15 @@
+﻿  Admin.cpp
+  Bus Reservation System.cpp
+  Bus.cpp
+I:\CPP Projects\Bus Reservation System\Bus Reservation System\Bus Reservation System.cpp(88,20): error C2664: 'Bus *findBusByID(std::string &)': cannot convert argument 1 from 'std::string' to 'std::string &'
+      I:\CPP Projects\Bus Reservation System\Bus Reservation System\Bus Reservation System.cpp(88,44):
+      A non-const reference may only be bound to an lvalue
+      I:\CPP Projects\Bus Reservation System\Bus Reservation System\Bus Reservation System.cpp(35,6):
+      see declaration of 'findBusByID'
+      I:\CPP Projects\Bus Reservation System\Bus Reservation System\Bus Reservation System.cpp(88,20):
+      while trying to match the argument list '(std::string)'
+  
+  Person.cpp
+  Ticket.cpp
+  User.cpp
+  Generating Code...
