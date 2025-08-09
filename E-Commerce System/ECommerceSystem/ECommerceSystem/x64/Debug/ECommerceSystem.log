@@ -1,0 +1,10 @@
+﻿  Admin.cpp
+  Customer.cpp
+  ECommerceSystem.cpp
+  Order.cpp
+  Product.cpp
+  User.cpp
+  Generating Code...
+Admin.obj : error LNK2019: unresolved external symbol "public: __cdecl User::User(void)" (??0User@@QEAA@XZ) referenced in function "public: __cdecl Admin::Admin(void)" (??0Admin@@QEAA@XZ)
+Customer.obj : error LNK2001: unresolved external symbol "public: __cdecl User::User(void)" (??0User@@QEAA@XZ)
+I:\CPP Projects\E-Commerce System\ECommerceSystem\x64\Debug\ECommerceSystem.exe : fatal error LNK1120: 1 unresolved externals
